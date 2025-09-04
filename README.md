@@ -1,6 +1,7 @@
 <h2> Olá, me chamo Leandro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dxcWt2YXRmeDY5bXJuNXdoZnd6ZTJqbHNzazNvN2Vsd3J5cnc2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xiNG5oN25lc3FiMDdvMWdtNWRxMXRwYXNnY25yeWplbWN3dmlydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="230">
 <p><em>Sistemas de Informação na <a href="https://novo.uniaraxa.edu.br/">Uniaraxá</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></
+
 
 [![Linkedin: Leandro Reis](https://img.shields.io/badge/-leandroreis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-reis-1abb4621b/)](https://www.linkedin.com/in/leandro-reis-1abb4621b/)
 
