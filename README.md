@@ -5,7 +5,7 @@
 
 <p><em>Sistemas de Informação na <a href="https://novo.uniaraxa.edu.br/">Uniaraxá</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
-[![Linkedin: Leandro Reis](https://img.shields.io/badge/-leandroreis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-reis-1abb4621b/)](https://www.linkedin.com/in/leandro-reis-1abb4621b/)
+[![Linkedin: Leandro Reis](https://img.shields.io/badge/-leandroreis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroreis01)](https://www.linkedin.com/in/leandroreis01)
 
 ---
 
